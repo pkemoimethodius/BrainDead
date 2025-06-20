@@ -1,0 +1,24 @@
+# Python virtualenv
+.venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# SQLite DB files (optional)
+*.sqlite3
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs or temp files
+*.log
+*.tmp
